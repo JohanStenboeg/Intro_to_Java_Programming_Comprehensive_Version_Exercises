@@ -25,5 +25,6 @@ public class Opg2_2 {
         //Printing the area and volume in 2 lines.
         System.out.println("The area is " + circleArea);
         System.out.println("The volume is " + circleVolume);
+        System.out.println(Math.pow((6*12+3),2));
     }
 }
