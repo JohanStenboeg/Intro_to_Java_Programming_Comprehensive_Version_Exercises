@@ -4,11 +4,11 @@ public class Task5 {
 
 
     public static void main(String[] args) {
-        int[] destroyerOfCPU = new int[10];
+        int[] arraytest = new int[10];
 
-        for (int i = 0; i < destroyerOfCPU.length; i++) {
-            destroyerOfCPU[i] = i;
-            System.out.println(destroyerOfCPU[i]);
+        for (int i = 0; i < arraytest.length; i++) {
+            arraytest[i] = i;
+            System.out.println(arraytest[i]);
         }
 
     }

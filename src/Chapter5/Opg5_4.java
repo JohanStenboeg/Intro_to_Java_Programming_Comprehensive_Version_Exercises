@@ -2,7 +2,7 @@ package Chapter5;
 
 /*
 Program function:
-A program that in a for loop generates 10 numbers and multiplies them by 2.54 to convert them to centimetres. 
+A program that in a for loop generates 10 numbers and multiplies them by 2.54 to convert them to centimetres.
 Author:
 Johan Stenbøg
 Reason:
